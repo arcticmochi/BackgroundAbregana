@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BackgroundAbregana</string>
+    <string name="tv_Hello">Hello Abregana!</string>
+    <string name="btn_Change">Change</string>
+    <string name="tv_Label">Name</string>
+    <string name="chkb_CIT">from CIT</string>
+    <string name="pl_Name">Enter name</string>
+    <string name="swch_Mode">Light/Dark</string>
+    <string name="ibtn_Save">ibtn_Save</string>
+    <string-array name="user_type">
+        <item name="Admin">Admin</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+</resources>
